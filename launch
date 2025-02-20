@@ -3,12 +3,12 @@
 
     <arg name="rviz" default="true" />
 
-    <rosparam command="load" file="$(find i2ekf_lo)/config/velodyne.yaml" />
+    <rosparam command="load" file="$(find KD_LO)/config/velodyne.yaml" />
 
-    <node pkg="i2ekf_lo" type="i2ekf_lo_mapping" name="i2ekf_lo_mapping" output="screen"/>
+    <node pkg="KD_LO" type="KD_LO_mapping" name="KD_LO_mapping" output="screen"/>
 
     <group if="$(arg rviz)">
-    <node launch-prefix="nice" pkg="rviz" type="rviz" name="rviz" args="-d $(find i2ekf_lo)/rviz_cfg/spinning.rviz" />
+    <node launch-prefix="nice" pkg="rviz" type="rviz" name="rviz" args="-d $(find KD_LO)/rviz_config/spinning.rviz" />
     </group>
    launch-prefix="gdb -ex run --args" 
 </launch>
