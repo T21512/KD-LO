@@ -15,7 +15,7 @@ To achieve Precise localization in high-reflection scenarios, this work proposes
 
 ## Results
 
-Our method significantly outperforms the state of the art on the following datasets:
+Our method significantly outperforms the state of the art on high-reflection scenariosg datasets:
 
 ![Architecture Diagram](C:\Users\26555\Desktop\文章\2025iros\图片\iros\p5.5)
 
