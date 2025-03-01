@@ -17,7 +17,7 @@ To achieve Precise localization in high-reflection scenarios, this work proposes
 
 Our method significantly outperforms the state of the art on high-reflection scenariosg datasets:
 
-![Architecture Diagram](./image/p5.5.png)
+![Architecture Diagram](./image/P5.5.png)
 
 ## Code Release
 
