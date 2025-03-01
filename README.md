@@ -4,7 +4,7 @@
 
 This project focuses on reflection and refraction-induced noise in LiDAR localization introduces false points and mismatches, disrupting feature extraction and increasing localization errors.
 
-![Architecture Diagram](C:\Users\26555\Desktop\文章\2025iros\图片\iros\p2.4)
+![Architecture Diagram](image\p2.4)
 
 ## Method
 
@@ -17,7 +17,7 @@ To achieve Precise localization in high-reflection scenarios, this work proposes
 
 Our method significantly outperforms the state of the art on high-reflection scenariosg datasets:
 
-![Architecture Diagram](C:\Users\26555\Desktop\文章\2025iros\图片\iros\p5.5)
+![Architecture Diagram](image\p5.5)
 
 ## Code Release
 
