@@ -23,5 +23,7 @@ Our method significantly outperforms the state of the art on high-reflection sce
 
 Our paper has been submitted at the International Conference on Intelligent Robots and Systems (IROS). This research focuses on the problem of pure LiDAR odometry, specifically aiming to reduce point - cloud noise in high - reflectivity scenarios to improve robot localization. An innovative and highly effective denoising network has been proposed, which effectively solves the issues of failed mapping and large localization errors of robots in high - reflectivity scenarios. To promote academic exchange and development, we will open - source the project code and data as soon as possible after the relevant conference procedures are completed. We welcome you to keep an eye on this repository for the latest updates. 
 
-KAN-Based Denoising for LiDAR Odometry in High-Reflection Environments
-To implement the chemical robot localization algorithm incorporating KAN-based denoising in high-reflectivity environments, Ubuntu 20.04 was selected as the operating system, providing a stable and widely supported development environment. In terms of programming languages, C++ was primarily used for the efficient implementation of core algorithms, while Python 3.8 was employed for data processing and deep learning model training. The Robot Operating System (ROS1) was used as the communication and control framework. 
+
+## Contact
+
+For any inquiries or feedback, please contact 2655519028@qq.com.
